@@ -5,8 +5,8 @@ console.log('I did it!');
 // Make a simple request
 
 var options = {
-  host: 'www.example.org',
-  path: '/'
+  host: 'stream-large-file.herokuapp.com',
+  path: '/give-me-stuff-now'
 };
 
 // Called by https when the request is made.
